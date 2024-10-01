@@ -1,1 +1,1 @@
-https://github.com/Dunvantkai/-Gwastatiroedd-glaswelltog/blob/main/Photos/Capture.PNG
+![alt text](https://raw.githubusercontent.com/Dunvantkai/-Gwastatiroedd-glaswelltog/refs/heads/main/Photos/Capture.PNG)
